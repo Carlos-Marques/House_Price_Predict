@@ -122,4 +122,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-models/
+models/*
+bin/
+share/
+include/
+etc/
+datasets/
